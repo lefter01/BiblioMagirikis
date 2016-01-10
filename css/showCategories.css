@@ -1,0 +1,16 @@
+body
+{
+    display: block;
+    size: auto;   
+    overflow: auto;
+    background-color: #cccccc;
+}
+#quantity1
+{   
+    text-align: center;
+    color: #6666ff;
+}
+#quantity1:hover
+{
+    color:blue;
+}
